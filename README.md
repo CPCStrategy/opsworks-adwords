@@ -1,4 +1,4 @@
-# AWS OpstWorks AdWords Cookbook for PHP library 
+# AWS OpstWorks AdWords 
 
 # Summary
 > "OpsWorks is a DevOps solution for managing the coplete application lifecycle, 
